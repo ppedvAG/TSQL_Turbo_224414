@@ -1,6 +1,6 @@
 # PPKURS - TSQL Turbo
 
-TSQL Turbo am 24.01.2022. Trainer: Lukas Kern (LukasK@ppedv.de) 
+TSQL Turbo am 03.02.2023. Trainer: Lukas Kern (LukasK@ppedv.de) 
 
 ## M001 | Getting Started-SQL-Server und SSMS
 
